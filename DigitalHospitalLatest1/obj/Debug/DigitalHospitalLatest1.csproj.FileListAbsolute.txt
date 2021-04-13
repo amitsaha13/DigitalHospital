@@ -1,0 +1,152 @@
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\DigitalHospitalLatest1.dll.config
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\DigitalHospitalLatest1.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\DigitalHospitalLatest1.pdb
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\csc.exe
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\csc.exe.config
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\csc.rsp
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\csi.exe
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\csi.exe.config
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\csi.rsp
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.AppContext.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.Collections.Immutable.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.Console.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.IO.Compression.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.IO.FileSystem.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.IO.Pipes.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.Security.AccessControl.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.Security.Claims.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.ValueTuple.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.Xml.XPath.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\vbc.exe
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\vbc.exe.config
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\vbc.rsp
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\VBCSCompiler.exe
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\VBCSCompiler.exe.config
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\Antlr3.Runtime.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\Microsoft.Web.Infrastructure.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\Newtonsoft.Json.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\System.Web.Helpers.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\System.Web.Mvc.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\System.Web.Optimization.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\System.Web.Razor.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\System.Web.WebPages.Deployment.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\System.Web.WebPages.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\System.Web.WebPages.Razor.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\WebGrease.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\System.Web.Helpers.xml
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\System.Web.Mvc.xml
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\System.Web.Optimization.xml
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\System.Web.Razor.xml
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\System.Web.WebPages.xml
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\System.Web.WebPages.Deployment.xml
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\System.Web.WebPages.Razor.xml
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\Newtonsoft.Json.xml
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\Antlr3.Runtime.pdb
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\obj\Debug\DigitalHospitalLatest1.csprojAssemblyReference.cache
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\obj\Debug\DigitalHospitalLatest1.csproj.CoreCompileInputs.cache
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\obj\Debug\DigitalHospitalLatest1.csproj.CopyComplete
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\obj\Debug\DigitalHospitalLatest1.dll
+E:\Digital Hospital\DigitalHospitalLatest1\DigitalHospitalLatest1\obj\Debug\DigitalHospitalLatest1.pdb
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\DigitalHospitalLatest1.dll.config
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\DigitalHospitalLatest1.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\DigitalHospitalLatest1.pdb
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\csc.exe
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\csc.exe.config
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\csc.rsp
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\csi.exe
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\csi.exe.config
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\csi.rsp
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\Microsoft.Managed.Core.targets
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.AppContext.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.Collections.Immutable.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.Console.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.IO.Compression.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.IO.FileSystem.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.IO.Pipes.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.Reflection.Metadata.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.Security.AccessControl.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.Security.Claims.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.Security.Principal.Windows.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.ValueTuple.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.Xml.XmlDocument.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.Xml.XPath.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\vbc.exe
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\vbc.exe.config
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\vbc.rsp
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\VBCSCompiler.exe
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\roslyn\VBCSCompiler.exe.config
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\Antlr3.Runtime.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\Microsoft.Web.Infrastructure.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\Newtonsoft.Json.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\System.Web.Helpers.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\System.Web.Mvc.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\System.Web.Optimization.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\System.Web.Razor.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\System.Web.WebPages.Deployment.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\System.Web.WebPages.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\System.Web.WebPages.Razor.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\WebGrease.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\System.Web.Helpers.xml
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\System.Web.Mvc.xml
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\System.Web.Optimization.xml
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\System.Web.Razor.xml
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\System.Web.WebPages.xml
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\System.Web.WebPages.Deployment.xml
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\System.Web.WebPages.Razor.xml
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\Newtonsoft.Json.xml
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\Antlr3.Runtime.pdb
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\obj\Debug\DigitalHospitalLatest1.csprojAssemblyReference.cache
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\obj\Debug\DigitalHospitalLatest1.csproj.CoreCompileInputs.cache
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\obj\Debug\DigitalHospitalLatest1.csproj.CopyComplete
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\obj\Debug\DigitalHospitalLatest1.dll
+G:\CSE 3.2\C# lab\project\DigitalHospitalLatest1\DigitalHospitalLatest1\obj\Debug\DigitalHospitalLatest1.pdb

@@ -1,0 +1,62 @@
+﻿@{
+    ViewBag.Title = "Log In";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<script src="~/Content/bower_components/jquery/dist/jquery.min.js"></script>
+<script src="~/Scripts/jquery.dataTables.min.js"></script>
+<script type="text/javascript">
+
+    function Save() {
+
+        //alert('hgh');
+        var Login_info = {
+            Phone: $('#phone').val(),
+            Passward: $('#Password').val()
+        }
+        $.ajax({
+            url: "/Login/login_user",
+            type: "POST",
+            data: Login_info,
+            dataType: "JSON",
+            success: function (result, status, xhr) {
+
+                // window.loaction.href = "";
+            },
+            error: function (req, status, errorObj) {
+                alert(req.data);
+                alert(status);
+                alert(errorObj);
+            }
+        });
+    }
+
+</script>
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    
+    <link href="~/Content/login/login.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="login-box">
+        <h1>Login Form</h1>
+        <div class="textbox">
+            <i class="fas fa-user"></i>
+            <input type="text" placeholder=" Enter Phone" id="phone" maxlength="11">
+        </div>
+
+        <div class="textbox">
+            <i class="fas fa-lock"></i>
+            <input type="password" placeholder="Enter Password" id="Password">
+        </div>
+
+        <input type="submit" class="btn" value="log in" onclick="Save()">
+        <input type="button" class="btn" value="cancel">
+        <a href="../Patient/PatientSignupView" class="text-center">Register a new membership</a>
+    </div>
+</body>
+</html>
